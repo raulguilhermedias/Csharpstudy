@@ -1,0 +1,15 @@
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/MeuApp/bin/Debug/net8.0/MeuApp
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/MeuApp/bin/Debug/net8.0/MeuApp.deps.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/MeuApp/bin/Debug/net8.0/MeuApp.runtimeconfig.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/MeuApp/bin/Debug/net8.0/MeuApp.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/MeuApp/bin/Debug/net8.0/MeuApp.pdb
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/MeuApp/obj/Debug/net8.0/MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/MeuApp/obj/Debug/net8.0/MeuApp.AssemblyInfoInputs.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/MeuApp/obj/Debug/net8.0/MeuApp.AssemblyInfo.cs
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/MeuApp/obj/Debug/net8.0/MeuApp.csproj.CoreCompileInputs.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/MeuApp/obj/Debug/net8.0/MeuApp.sourcelink.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/MeuApp/obj/Debug/net8.0/MeuApp.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/MeuApp/obj/Debug/net8.0/refint/MeuApp.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/MeuApp/obj/Debug/net8.0/MeuApp.pdb
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/MeuApp/obj/Debug/net8.0/MeuApp.genruntimeconfig.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/MeuApp/obj/Debug/net8.0/ref/MeuApp.dll
