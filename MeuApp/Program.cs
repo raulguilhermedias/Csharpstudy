@@ -6,8 +6,8 @@ namespace MeuApp
     {
         static void Main(string[] args)
         {
-            var texto = 'Testando';
-            Console.WriteLine(texto);
+            var idade = 25;
+            idade = 2.3;
         }
     }
 }
