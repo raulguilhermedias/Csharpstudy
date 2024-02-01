@@ -6,7 +6,13 @@ namespace MeuApp
     {
         static void Main(string[] args)
         {
-            float salario = 2.500;
+            int inteiro = 100;
+            float real = 25.8f;
+            string valorReal = real.ToString();
+            //inteiro = int.Parse(valorReal);
+            inteiro = Convert.ToInt32(real);
+
+            Console.WriteLine(inteiro);
         }
     }
 }
