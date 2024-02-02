@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
 
 namespace MeuApp
 {
@@ -6,13 +7,26 @@ namespace MeuApp
     {
         static void Main(string[] args)
         {
-            int inteiro = 100;
-            float real = 25.8f;
-            string valorReal = real.ToString();
-            //inteiro = int.Parse(valorReal);
-            inteiro = Convert.ToInt32(real);
+            MeuMetodo();
 
-            Console.WriteLine(inteiro);
+            string nome = RetornaNome("André", " Baltieri");
+            Console.WriteLine(nome);
+        }
+
+        static void MeuMetodo()
+        {
+            Console.WriteLine("C# é legal");
+        }
+
+        static string RetornaNome(
+            string nome,
+            string sobrenome,
+            int idade = 34,
+            bool teste = false,
+            double novo = 33.42
+        )
+        {
+            return nome + sobrenome + " tem " + idade.ToString() + teste + novo;
         }
     }
 }
@@ -35,4 +49,43 @@ char -> Utilizado para armazenar 1 caractere e deve ser usado aspas simples, por
 object -> pode ser usado para atribuir qualquer tipo de valor.
 
 Nullabel Types -> valores nulos e devem ser usados com o ? na frente de seu tipo, por exemplo: int? idade = null;
+
+Operadadores condicionais -> exemplo:
+            int idade = 18;
+            int maioridade = 21;
+            int idadeMaxima = 65;
+
+            if (idade >= maioridade && idade < idadeMaxima){
+                Console.WriteLine("é de maior");
+            }else{
+                Console.WriteLine("não é de maior");
+            }
+            Console.WriteLine("finalizou");
+
+Switch - >  string valor = "andre";
+            switch (valor)
+            {
+                case "joao": Console.WriteLine("Não é o cara"); break;
+                case "marcelo": Console.WriteLine("Não é o cara"); break;
+                case "andre": Console.WriteLine("É o cara"); break;
+                default: Console.WriteLine("Não encontrei"); break;
+            }
+
+For ->         for (var i = 0; i <= 5; i++){
+                Console.WriteLine(i);
+            }
+
+While ->    var valor = 0;
+            while (true)
+            {
+                valor++;
+                Console.WriteLine(valor);
+            }
+
+Do While -> var valor = 0;
+            do {
+                Console.WriteLine(valor);
+                valor++;
+            } while (valor < 5);
+            Console.WriteLine(valor);
 */
