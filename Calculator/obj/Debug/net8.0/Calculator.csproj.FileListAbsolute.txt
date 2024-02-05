@@ -1,0 +1,15 @@
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Calculator/bin/Debug/net8.0/Calculator
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Calculator/bin/Debug/net8.0/Calculator.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Calculator/bin/Debug/net8.0/Calculator.pdb
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Calculator/obj/Debug/net8.0/Calculator.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Calculator/obj/Debug/net8.0/Calculator.pdb
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Calculator/obj/Debug/net8.0/ref/Calculator.dll
