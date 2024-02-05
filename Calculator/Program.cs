@@ -14,6 +14,7 @@ namespace Calculator
             Console.Clear();
 
             Console.WriteLine("O que deseja fazer?");
+            Console.WriteLine("0 - Elevado");
             Console.WriteLine("1 - Soma");
             Console.WriteLine("2 - Subtração");
             Console.WriteLine("3 - Divisão");
@@ -27,6 +28,7 @@ namespace Calculator
 
             switch (res)
             {
+                case 0: Elevado(); break;
                 case 1: Soma(); break;
                 case 2: Subtracao(); break;
                 case 3: Divisao(); break;
