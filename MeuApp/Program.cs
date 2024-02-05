@@ -7,26 +7,17 @@ namespace MeuApp
     {
         static void Main(string[] args)
         {
-            MeuMetodo();
+            var arr = new string[2];
+            arr[0] = "Item 1";
 
-            string nome = RetornaNome("André", " Baltieri");
-            Console.WriteLine(nome);
-        }
+            var arr2 = arr;
+            Console.WriteLine(arr[0]);
+            Console.WriteLine(arr2[0]);
 
-        static void MeuMetodo()
-        {
-            Console.WriteLine("C# é legal");
-        }
+            arr[0] = "Item 2";
+            Console.WriteLine(arr[0]);
+            Console.WriteLine(arr2[0]);
 
-        static string RetornaNome(
-            string nome,
-            string sobrenome,
-            int idade = 34,
-            bool teste = false,
-            double novo = 33.42
-        )
-        {
-            return nome + sobrenome + " tem " + idade.ToString() + teste + novo;
         }
     }
 }
@@ -88,4 +79,29 @@ Do While -> var valor = 0;
                 valor++;
             } while (valor < 5);
             Console.WriteLine(valor);
+
+Metodos e funções -> 
+        static void Main(string[] args)
+        {
+            MeuMetodo();
+
+            string nome = RetornaNome("André", " Baltieri");
+            Console.WriteLine(nome);
+        }
+
+        static void MeuMetodo()
+        {
+            Console.WriteLine("C# é legal");
+        }
+
+        static string RetornaNome(
+            string nome,
+            string sobrenome,
+            int idade = 34,
+            bool teste = false,
+            double novo = 33.42
+        ){
+        
+            return nome + sobrenome + " tem " + idade.ToString() + teste + novo;
+        }
 */
