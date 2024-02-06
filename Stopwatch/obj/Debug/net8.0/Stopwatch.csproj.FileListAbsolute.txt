@@ -1,0 +1,15 @@
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Stopwatch/bin/Debug/net8.0/Stopwatch
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Stopwatch/bin/Debug/net8.0/Stopwatch.deps.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Stopwatch/bin/Debug/net8.0/Stopwatch.runtimeconfig.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Stopwatch/bin/Debug/net8.0/Stopwatch.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Stopwatch/bin/Debug/net8.0/Stopwatch.pdb
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Stopwatch/obj/Debug/net8.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfoInputs.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Stopwatch/obj/Debug/net8.0/Stopwatch.AssemblyInfo.cs
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Stopwatch/obj/Debug/net8.0/Stopwatch.csproj.CoreCompileInputs.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Stopwatch/obj/Debug/net8.0/Stopwatch.sourcelink.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Stopwatch/obj/Debug/net8.0/Stopwatch.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Stopwatch/obj/Debug/net8.0/refint/Stopwatch.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Stopwatch/obj/Debug/net8.0/Stopwatch.pdb
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Stopwatch/obj/Debug/net8.0/Stopwatch.genruntimeconfig.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Stopwatch/obj/Debug/net8.0/ref/Stopwatch.dll
