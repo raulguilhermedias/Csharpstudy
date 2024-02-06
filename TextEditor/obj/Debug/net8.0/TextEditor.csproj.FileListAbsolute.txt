@@ -1,0 +1,15 @@
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/TextEditor/bin/Debug/net8.0/TextEditor
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/TextEditor/bin/Debug/net8.0/TextEditor.deps.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/TextEditor/bin/Debug/net8.0/TextEditor.runtimeconfig.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/TextEditor/bin/Debug/net8.0/TextEditor.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/TextEditor/bin/Debug/net8.0/TextEditor.pdb
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/TextEditor/obj/Debug/net8.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/TextEditor/obj/Debug/net8.0/TextEditor.AssemblyInfoInputs.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/TextEditor/obj/Debug/net8.0/TextEditor.AssemblyInfo.cs
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/TextEditor/obj/Debug/net8.0/TextEditor.csproj.CoreCompileInputs.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/TextEditor/obj/Debug/net8.0/TextEditor.sourcelink.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/TextEditor/obj/Debug/net8.0/TextEditor.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/TextEditor/obj/Debug/net8.0/refint/TextEditor.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/TextEditor/obj/Debug/net8.0/TextEditor.pdb
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/TextEditor/obj/Debug/net8.0/TextEditor.genruntimeconfig.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/TextEditor/obj/Debug/net8.0/ref/TextEditor.dll
