@@ -80,5 +80,9 @@ namespace Strings
             // Console.WriteLine(texto.Contains(null));
 
         }
+        public static class HelloWorld
+{
+    public static string Hello() => "Goodbye, Mars!";
+}
     }
 }
