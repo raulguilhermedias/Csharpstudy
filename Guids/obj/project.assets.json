@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/raulguilhermedias/Documents/GitHub/Csharpstudy/teste/teste.csproj",
-      "projectName": "teste",
-      "projectPath": "/home/raulguilhermedias/Documents/GitHub/Csharpstudy/teste/teste.csproj",
+      "projectUniqueName": "/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Guids/Guids.csproj",
+      "projectName": "Guids",
+      "projectPath": "/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Guids/Guids.csproj",
       "packagesPath": "/home/raulguilhermedias/.nuget/packages/",
-      "outputPath": "/home/raulguilhermedias/Documents/GitHub/Csharpstudy/teste/obj/",
+      "outputPath": "/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Guids/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/raulguilhermedias/.nuget/NuGet/NuGet.Config"

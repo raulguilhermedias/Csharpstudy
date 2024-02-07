@@ -1,0 +1,15 @@
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Guids/bin/Debug/net8.0/Guids
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Guids/bin/Debug/net8.0/Guids.deps.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Guids/bin/Debug/net8.0/Guids.runtimeconfig.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Guids/bin/Debug/net8.0/Guids.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Guids/bin/Debug/net8.0/Guids.pdb
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Guids/obj/Debug/net8.0/Guids.GeneratedMSBuildEditorConfig.editorconfig
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Guids/obj/Debug/net8.0/Guids.AssemblyInfoInputs.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Guids/obj/Debug/net8.0/Guids.AssemblyInfo.cs
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Guids/obj/Debug/net8.0/Guids.csproj.CoreCompileInputs.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Guids/obj/Debug/net8.0/Guids.sourcelink.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Guids/obj/Debug/net8.0/Guids.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Guids/obj/Debug/net8.0/refint/Guids.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Guids/obj/Debug/net8.0/Guids.pdb
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Guids/obj/Debug/net8.0/Guids.genruntimeconfig.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Guids/obj/Debug/net8.0/ref/Guids.dll
