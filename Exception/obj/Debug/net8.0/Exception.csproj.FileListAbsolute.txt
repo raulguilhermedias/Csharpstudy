@@ -1,0 +1,15 @@
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Exception/obj/Debug/net8.0/Exception.GeneratedMSBuildEditorConfig.editorconfig
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Exception/obj/Debug/net8.0/Exception.AssemblyInfoInputs.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Exception/obj/Debug/net8.0/Exception.AssemblyInfo.cs
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Exception/obj/Debug/net8.0/Exception.csproj.CoreCompileInputs.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Exception/obj/Debug/net8.0/Exception.sourcelink.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Exception/bin/Debug/net8.0/Exception
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Exception/bin/Debug/net8.0/Exception.deps.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Exception/bin/Debug/net8.0/Exception.runtimeconfig.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Exception/bin/Debug/net8.0/Exception.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Exception/bin/Debug/net8.0/Exception.pdb
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Exception/obj/Debug/net8.0/Exception.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Exception/obj/Debug/net8.0/refint/Exception.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Exception/obj/Debug/net8.0/Exception.pdb
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Exception/obj/Debug/net8.0/Exception.genruntimeconfig.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Exception/obj/Debug/net8.0/ref/Exception.dll
