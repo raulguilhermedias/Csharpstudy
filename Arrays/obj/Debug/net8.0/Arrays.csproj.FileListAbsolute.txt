@@ -1,0 +1,15 @@
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Arrays/bin/Debug/net8.0/Arrays
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Arrays/bin/Debug/net8.0/Arrays.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Arrays/bin/Debug/net8.0/Arrays.pdb
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Arrays/obj/Debug/net8.0/Arrays.sourcelink.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Arrays/obj/Debug/net8.0/Arrays.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Arrays/obj/Debug/net8.0/Arrays.pdb
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Arrays/obj/Debug/net8.0/ref/Arrays.dll

@@ -1,0 +1,15 @@
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Numbers/obj/Debug/net8.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Numbers/obj/Debug/net8.0/Numbers.AssemblyInfoInputs.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Numbers/obj/Debug/net8.0/Numbers.AssemblyInfo.cs
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Numbers/obj/Debug/net8.0/Numbers.csproj.CoreCompileInputs.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Numbers/obj/Debug/net8.0/Numbers.sourcelink.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Numbers/bin/Debug/net8.0/Numbers
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Numbers/bin/Debug/net8.0/Numbers.deps.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Numbers/bin/Debug/net8.0/Numbers.runtimeconfig.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Numbers/bin/Debug/net8.0/Numbers.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Numbers/bin/Debug/net8.0/Numbers.pdb
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Numbers/obj/Debug/net8.0/Numbers.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Numbers/obj/Debug/net8.0/refint/Numbers.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Numbers/obj/Debug/net8.0/Numbers.pdb
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Numbers/obj/Debug/net8.0/Numbers.genruntimeconfig.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Numbers/obj/Debug/net8.0/ref/Numbers.dll
