@@ -24,11 +24,22 @@ namespace Execption
                 Console.WriteLine(ex.Message);
                 Console.WriteLine("Não encontrei o indice da lista");
             }
+            catch (MinhaException ex)
+            {
+                Console.WriteLine(ex.InnerException);
+                Console.WriteLine(ex.Message);
+                Console.WriteLine(ex.QuandoAconteceu);
+                Console.WriteLine("Exceção Custumizada");
+            }
             catch (Exception ex)
             {
                 Console.WriteLine(ex.InnerException);
                 Console.WriteLine(ex.Message);
                 Console.WriteLine("Ops deu errado!");
+            }
+            finally
+            {
+                Console.WriteLine("Chegou ao fim!");
             }
 
         }
@@ -37,8 +48,18 @@ namespace Execption
         {
             if (string.IsNullOrEmpty(texto))
             {
-                throw new Exception("o texto não pode ser nulo ou vazio");
+                throw new MinhaException(DateTime.Now);
             }
+        }
+
+        public class MinhaException : Exception
+        {
+            public MinhaException(DateTime date)
+            {
+                QuandoAconteceu = date;
+            }
+
+            public DateTime QuandoAconteceu { get; set; }
         }
     }
 }
