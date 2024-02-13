@@ -7,16 +7,15 @@ namespace Aula1
         static void Main(string[] args)
         {
             var pagamentoBoleto = new PagamentoBoleto();
-            pagamentoBoleto.Pagar();
-            pagamentoBoleto.Vencimento = DateTime.Now;
-            pagamentoBoleto.NumeroBoleto = "123";
+            pagamentoBoleto.DataPagamento = DateTime.Now;
         }
     }
 
     class Pagamento
     {
         // Propriedades
-        public DateTime Vencimento;
+        public DateTime MyProperty { get; set; }
+
 
         // Métodos
         public virtual void Pagar() { }
