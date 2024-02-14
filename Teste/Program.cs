@@ -7,11 +7,27 @@ namespace Teste
     {
         static void Main(string[] args)
         {
-            // Exercicio 11
+            // Exercicio 13
             
 
-            
-            
+
+
+            // Exercicio 12
+            // Console.WriteLine("Qual é o salário do funcionário? R$");
+            // var price = double.Parse(Console.ReadLine());
+            // var aumento = price + (price * 15 / 100);
+            // Console.WriteLine($"Um funcionário que ganhava R${price}, com um aumento de 15% vai receber R${Math.Round(aumento, 2)}");
+
+
+
+            // Exercicio 11
+            // Console.WriteLine("Qual é o preço do produto? R$");
+            // var price = double.Parse(Console.ReadLine());
+            // var desc = price - (price * 5 / 100);
+            // Console.WriteLine($"O Produto que custava R${price}, na promoção com desconto de 5% vai custar R${Math.Round(desc, 2)}");
+
+
+
             // Exercicio 10
             // Console.WriteLine("Largura da parede: ");
             // var larg = double.Parse(Console.ReadLine());
