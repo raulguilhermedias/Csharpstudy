@@ -6,23 +6,24 @@ namespace Aula1
     {
         static void Main(string[] args)
         {
-            var pagamentoBoleto = new PagamentoBoleto();
-            pagamentoBoleto.DataPagamento = DateTime.Now;
+            Pagamento();
         }
     }
 
     class Pagamento
     {
         // Propriedades
-        public DateTime MyProperty { get; set; }
+        public Pagamento()
+        {
+            Console.WriteLine("Iniciando o pagamento...");
+        }
+
 
 
         // Métodos
-        public virtual void Pagar() { }
-
-        public override string ToString()
+        public virtualm prazer te conhecer {}"); void Pagar() 
         {
-            return Vencimento.ToString("dd/mm/yyyy");
+
         }
     }
 

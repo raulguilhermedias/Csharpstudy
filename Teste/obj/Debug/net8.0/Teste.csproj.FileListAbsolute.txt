@@ -1,0 +1,15 @@
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Teste/obj/Debug/net8.0/Teste.GeneratedMSBuildEditorConfig.editorconfig
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Teste/obj/Debug/net8.0/Teste.AssemblyInfoInputs.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Teste/obj/Debug/net8.0/Teste.AssemblyInfo.cs
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Teste/obj/Debug/net8.0/Teste.csproj.CoreCompileInputs.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Teste/obj/Debug/net8.0/Teste.sourcelink.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Teste/bin/Debug/net8.0/Teste
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Teste/bin/Debug/net8.0/Teste.deps.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Teste/bin/Debug/net8.0/Teste.runtimeconfig.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Teste/bin/Debug/net8.0/Teste.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Teste/bin/Debug/net8.0/Teste.pdb
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Teste/obj/Debug/net8.0/Teste.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Teste/obj/Debug/net8.0/refint/Teste.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Teste/obj/Debug/net8.0/Teste.pdb
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Teste/obj/Debug/net8.0/Teste.genruntimeconfig.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/Teste/obj/Debug/net8.0/ref/Teste.dll
