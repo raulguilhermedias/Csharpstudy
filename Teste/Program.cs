@@ -7,8 +7,23 @@ namespace Teste
     {
         static void Main(string[] args)
         {
-            // Exercicio 13
+            // Exercicio 14
+            Console.WriteLine("Quantos dias foi alugado?");
+            var day = double.Parse(Console.ReadLine());
+            Console.WriteLine("Quantos Km foram rodados?");
+            var km = double.Parse(Console.ReadLine());
+            var pay = (day * 60) + (km * 0.15);
+            Console.WriteLine($"O total a pagar é de R${Math.Round(pay, 2)}");
+
             
+            
+            // Exercicio 13
+            // Console.WriteLine("Qual é a Temperatura em °C? ");
+            // var c = double.Parse(Console.ReadLine());
+            // var f = (c * 9/5) + 32;
+            // var k = c + 273.15;
+
+            // Console.WriteLine($"A temperatura de {c}°C corresponde a {f}°F e {k}°K");
 
 
 
