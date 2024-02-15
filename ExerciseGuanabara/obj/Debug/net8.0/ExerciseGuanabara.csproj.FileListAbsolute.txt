@@ -1,0 +1,15 @@
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/ExerciseGuanabara/obj/Debug/net8.0/ExerciseGuanabara.GeneratedMSBuildEditorConfig.editorconfig
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/ExerciseGuanabara/obj/Debug/net8.0/ExerciseGuanabara.AssemblyInfoInputs.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/ExerciseGuanabara/obj/Debug/net8.0/ExerciseGuanabara.AssemblyInfo.cs
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/ExerciseGuanabara/obj/Debug/net8.0/ExerciseGuanabara.csproj.CoreCompileInputs.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/ExerciseGuanabara/obj/Debug/net8.0/ExerciseGuanabara.sourcelink.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/ExerciseGuanabara/bin/Debug/net8.0/ExerciseGuanabara
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/ExerciseGuanabara/bin/Debug/net8.0/ExerciseGuanabara.deps.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/ExerciseGuanabara/bin/Debug/net8.0/ExerciseGuanabara.runtimeconfig.json
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/ExerciseGuanabara/bin/Debug/net8.0/ExerciseGuanabara.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/ExerciseGuanabara/bin/Debug/net8.0/ExerciseGuanabara.pdb
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/ExerciseGuanabara/obj/Debug/net8.0/ExerciseGuanabara.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/ExerciseGuanabara/obj/Debug/net8.0/refint/ExerciseGuanabara.dll
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/ExerciseGuanabara/obj/Debug/net8.0/ExerciseGuanabara.pdb
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/ExerciseGuanabara/obj/Debug/net8.0/ExerciseGuanabara.genruntimeconfig.cache
+/home/raulguilhermedias/Documents/GitHub/Csharpstudy/ExerciseGuanabara/obj/Debug/net8.0/ref/ExerciseGuanabara.dll
