@@ -19,7 +19,6 @@ namespace ExerciseGuanabara
                 term += razao;
             }
 
-
         }
     }
 }
