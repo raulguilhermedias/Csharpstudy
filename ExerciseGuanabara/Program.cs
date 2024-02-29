@@ -11,7 +11,7 @@ namespace ExerciseGuanabara
     {
         static void Main(string[] args)
         {
-            Ex64.Exercise64();
+            Ex68.Exercise68();
         }
     }
     // Exercicio 24
