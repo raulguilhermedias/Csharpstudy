@@ -16,6 +16,7 @@ namespace ExerciseGuanabara
                 cont++;
                 Console.WriteLine("Digite um número [999 - Para PARAR]: ");
                 n = int.Parse(Console.ReadLine());
+                
             }
             Console.WriteLine($"Você digitou {cont} números e a soma entre eles foi {soma}");
         }
