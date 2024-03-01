@@ -9,37 +9,36 @@ namespace ExerciseGuanabara
             Console.WriteLine("VAMOS JOGAR PAR OU IMPAR");
             Console.WriteLine("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-");
             Random rng = new Random();
+            var c = 0;
             while (true)
             {
                 Console.WriteLine("Digite um número: ");
                 var n = int.Parse(Console.ReadLine());
                 Console.WriteLine("Par ou Impar ? [P/I]");
                 var pi = char.Parse(Console.ReadLine().ToUpper());
-                var pipc = 'I';
                 var pc = rng.Next(1, 10);
                 var soma = n + pc;
-                var pori = " "; 
-                if (pi == 'I')
-                {
-                    pipc = 'P';
-                }
                 if (soma % 2 == 0 && pi == 'P')
                 {
                     Console.WriteLine($"Você escolheu {n} e o pc {pc}. A Soma deu {soma}. DEU PAR!");
                     Console.WriteLine("VOCÊ GANHOU!");
+                    c++;
                 }else if (soma % 2 == 0 && pi == 'I')
                 {
                     Console.WriteLine($"Você escolheu {n} e o pc {pc}. A Soma deu {soma}. DEU PAR!");
                     Console.WriteLine("VOCÊ PERDEU!");
+                    break;
                 }else if (soma % 2 != 0 && pi == 'I'){
                     Console.WriteLine($"Você escolheu {n} e o pc {pc}. A Soma deu {soma}. DEU IMPAR!");
                     Console.WriteLine("VOCÊ GANHOU!");
+                    c++;
                 }else if (soma % 2 != 0 && pi == 'P'){
                     Console.WriteLine($"Você escolheu {n} e o pc {pc}. A Soma deu {soma}. DEU IMPAR!");
                     Console.WriteLine("VOCÊ PERDEU!");
+                    break;
                 }
             }
-            Console.WriteLine("GAME OVER! Você venceu {x} vezes.");
+            Console.WriteLine($"GAME OVER! Você venceu {c} vezes.");
         }
     }
 }
