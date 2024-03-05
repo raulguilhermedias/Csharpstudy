@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExerciseGuanabara")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cee61377b372ea52b22e620ff4609fb171f858c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd1e6a6b648557c51391eef03408363af672d1d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExerciseGuanabara")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExerciseGuanabara")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
